@@ -1,10 +1,10 @@
 # Git 
 
-Vamos criar um E-commerce para a empresa X.
+Vamos criar um **E-commerce** para a *empresa X*.
 
 ## Funcionalidades
 
-Checkout, Tela de produto, Catálogo, Home com Banner
+Checkout, _Tela de produto, **Catálogo**, Home com Banner_
 
 ###### Melhorias do projeto
 
