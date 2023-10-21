@@ -33,7 +33,22 @@ Melhoria 1, Melhoria 2
 ![Logo Linux](https://logodownload.org/wp-content/uploads/2022/05/linux-logo-0.png)
 ![Logo Linux Mint](https://raw.githubusercontent.com/linuxmint/brand-logo/master/ring.svg)
 
-#### Links interessantes:
+## Links interessantes:
 * [Google](https://www.google.com/)
 * [stack overflow](https://stackoverflow.com/)
 * [w3schools](https://www.w3schools.com/)
+
+## Visualizar em forma de código
+```javascript 
+function soma(a,b){
+    return a + b;
+}
+```
+```Java 
+public class Soma(){
+    int a = 5;
+    int b = 8;
+    int resultado = a + b;
+    System.out.println("Resultado -> "+ resultado);
+}
+```
