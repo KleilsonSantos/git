@@ -28,3 +28,7 @@ Melhoria 1, Melhoria 2
 ![Logo do Google](./img/Untitled.png)
 
 ![Logo Microsoft](./img/RWCZER.avif)
+
+#### Imagens externas
+![Logo Linux](https://logodownload.org/wp-content/uploads/2022/05/linux-logo-0.png)
+![Logo Linux Mint](https://raw.githubusercontent.com/linuxmint/brand-logo/master/ring.svg)
