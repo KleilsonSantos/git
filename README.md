@@ -52,3 +52,9 @@ public class Soma{
     System.out.println("Resultado -> " + resultado);
 }
 ```
+
+## Lista de tarefas a fazer:
+- [ x ] Área de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema de bônus para primeira compra
+- [ x ] CSS do rodapé
