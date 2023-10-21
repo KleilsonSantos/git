@@ -45,10 +45,10 @@ function soma(a,b){
 }
 ```
 ```Java 
-public class Soma(){
+public class Soma{
     int a = 5;
     int b = 8;
     int resultado = a + b;
-    System.out.println("Resultado -> "+ resultado);
+    System.out.println("Resultado -> " + resultado);
 }
 ```
