@@ -32,3 +32,8 @@ Melhoria 1, Melhoria 2
 #### Imagens externas
 ![Logo Linux](https://logodownload.org/wp-content/uploads/2022/05/linux-logo-0.png)
 ![Logo Linux Mint](https://raw.githubusercontent.com/linuxmint/brand-logo/master/ring.svg)
+
+#### Links interessantes:
+* [Google](https://www.google.com/)
+* [stack overflow](https://stackoverflow.com/)
+* [w3schools](https://www.w3schools.com/)
